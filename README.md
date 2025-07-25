@@ -1,2 +1,2 @@
 # quantummine
-Hosting server MC
+Twój Hosting Serwerów Minecraft
